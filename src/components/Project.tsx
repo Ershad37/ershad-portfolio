@@ -4,11 +4,6 @@ import leetcodeImg from '../assets/images/leetcode.png';
 import cs50Img from '../assets/images/cs50.png';
 import ucsdImg from '../assets/images/UCSanDiego.png';
 import hackerrankImg from '../assets/images/HackerRank.png';
-import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock10.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
